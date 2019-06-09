@@ -21,3 +21,9 @@ a {
   box-sizing: border-box;
   max-width: var(--container-width);
 }
+
+@media only screen and (max-width: 600px) {
+    .container {
+        margin-top: 65%;
+    }
+}

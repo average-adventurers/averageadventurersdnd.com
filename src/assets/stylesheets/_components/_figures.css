@@ -8,16 +8,37 @@
 
 .figures img {
     padding: 15px;
+    width: 14%;
 }
 
 .sword {
-    margin-left: 25px;
+    margin-left: 10px;
     position: absolute;
     display: inline-block;
-    top: 105px;
+    top: 95px;
 }
 
 .top-10 {
     position: relative;
     top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .figures {
+        width: 500px;
+    }
+
+    .figures img {
+        padding: 2px;
+    }
+
+    .sword {
+        right: -215px;
+        top: 40%;
+    }
+
+    .top-10 {
+        position: relative;
+        top: 0px;
+    }
 }

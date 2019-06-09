@@ -20,3 +20,11 @@
 .title .right {
     display: inline-block;
 }
+
+@media only screen and (max-width: 600px) {
+    .title {
+        width: 500px;
+        margin-left: -85px;
+        font-size: 3rem;
+    }
+}
