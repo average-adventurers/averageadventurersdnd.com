@@ -1,0 +1,7 @@
+@import "./_globals/_variables.css";
+@import "./_globals/_reset.css";
+@import "./_globals/_base.css";
+
+@import "./_components/_header.css";
+@import "./_components/_figures.css";
+@import "./_components/_footer.css";

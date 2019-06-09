@@ -1,0 +1,23 @@
+body {
+  color: var(--white);
+  background-color: var(--red);
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+}
+
+a {
+  color: var(--blue);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--pink);
+  }
+}
+
+.container {
+  width: 100%;
+  padding: 0 25px;
+  margin: 50px auto;
+  box-sizing: border-box;
+  max-width: var(--container-width);
+}

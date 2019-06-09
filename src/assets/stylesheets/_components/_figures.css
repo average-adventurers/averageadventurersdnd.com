@@ -1,0 +1,23 @@
+.logo {
+    margin-top: 70px;
+}
+
+.figures {
+    display: inline-block;
+}
+
+.figures img {
+    padding: 15px;
+}
+
+.sword {
+    margin-left: 25px;
+    position: absolute;
+    display: inline-block;
+    top: 105px;
+}
+
+.top-10 {
+    position: relative;
+    top: 10px;
+}

@@ -1,0 +1,22 @@
+.title {
+    color: var(--white);
+    font-size: 4rem;
+    text-shadow: 1px 1px var(--grey);
+}
+
+.title img {
+    position: relative;
+    width: 30px;
+    top: 45px;
+    padding: 2px;
+}
+
+.title .left {
+    margin-left: 50px;
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.title .right {
+    display: inline-block;
+}

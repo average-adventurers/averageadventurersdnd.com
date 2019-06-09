@@ -1,0 +1,19 @@
+:root {
+  --black: #1a1a1a;
+  --white: #ffffff;
+  --grey: #565656;
+  --grey-lighter: #d1d7de;
+  --blue: #5694f1;
+  --pink: #ff5657;
+  --red: #ff5657;
+
+  --font-family: "Germania One", sans-serif;
+
+  --font-size-base: 16px;
+  --font-size-small: 14px;
+  --font-size-medium: 18px;
+  --font-size-large: 32px;
+
+  --container-width: 900px;
+  --container-width-large: 1200px;
+}
